@@ -7,7 +7,7 @@
 models/*
 
 # Pipeline outputs
-*outputs/*
+#outputs/*
 
 
 #### General R files ####
